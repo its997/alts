@@ -42,7 +42,7 @@ html{font-family: sans-serif;
     transition: all .2s}
 .wrapper.fade-in{opacity: 1;}
 .container, 
-..container-l{max-width: 1080px; 
+..container-l{max-width: 560px; 
     margin: 0 auto}
 .container-l.feature-has-large-images{max-width: 100%; 
     text-align: center;}
